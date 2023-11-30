@@ -40,3 +40,5 @@ refer to [this section][contributing-bug-reports] and [open an issue][issue temp
 [internals]: https://internals.rust-lang.org
 [rust-discord]: http://discord.gg/rust-lang
 [rust-zulip]: https://rust-lang.zulipchat.com
+
+test
