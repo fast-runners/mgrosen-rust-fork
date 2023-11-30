@@ -51,7 +51,7 @@ jobs:
     strategy:
       matrix:
         include:
-          - name: mgrosen-test
+          - name: mingw-check
             os: ebpf-linux
             env: {}
     timeout-minutes: 600
