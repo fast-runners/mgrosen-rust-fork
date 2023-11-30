@@ -41,4 +41,4 @@ refer to [this section][contributing-bug-reports] and [open an issue][issue temp
 [rust-discord]: http://discord.gg/rust-lang
 [rust-zulip]: https://rust-lang.zulipchat.com
 
-test
+test 2
