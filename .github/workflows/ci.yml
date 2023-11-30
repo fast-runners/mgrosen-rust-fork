@@ -26,6 +26,7 @@ name: CI
   pull_request:
     branches:
       - "**"
+  workflow_dispatch:
 permissions:
   contents: read
 defaults:
